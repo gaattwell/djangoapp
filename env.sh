@@ -1,7 +1,7 @@
-export DBHOST="speechserver"
-export DBUSER="speechserver"
+export DBHOST="localhost"
+export DBUSER="manager"
 export DBNAME="pollsdb"
-export DBPASS="speechpassword21!"
+export DBPASS="supersecretpass"
 
 
 
